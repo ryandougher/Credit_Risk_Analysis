@@ -6,7 +6,7 @@ The purpose of this project is to predict credit risk using credit card data. To
 
 ## Results
 
-The results of all six machine learning models can be seen below
+The results of all six machine learning models can be seen below:
 
 ### Naive Random Oversampling
 
